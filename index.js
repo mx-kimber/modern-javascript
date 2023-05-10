@@ -12,3 +12,8 @@ console.log(sqrt(-4).toString());
 
 const { simplify, parse, derivative } = require('mathjs');
 console.log(simplify('2x + 3x').toString());
+
+
+console.log('hello!');
+console.log('whoa!');
+
